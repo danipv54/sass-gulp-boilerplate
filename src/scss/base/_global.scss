@@ -1,0 +1,50 @@
+/*
+Global scss style for the entire app:
+* 1rem = 10px
+* container class: center any element
+* Images will always take 100% of width
+* all of this config can be changed, but is recommended to used the default config
+*/
+
+@use 'variable' as v;
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+
+body{
+    font-size: 1.6rem;
+    background-color: white; // You can change it, using your variable, e.g. v.$white
+}
+
+p{
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+.container{
+    width: 95%;
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

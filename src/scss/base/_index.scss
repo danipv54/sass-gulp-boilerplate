@@ -1,0 +1,10 @@
+/*Here is the place to import all your files to be used in the main scss file.
+  the index file send all styles to the main fail style.scss which will be compiled
+  as css file  by the running time.
+*/
+
+@forward 'normalize';
+@forward 'variable';
+@forward 'global';
+@forward 'utilities';
+@forward 'typography';

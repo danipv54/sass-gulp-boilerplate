@@ -1,0 +1,17 @@
+/* As soon as your app gets bigger and bigger is better use utilities there are some example, 
+   you can include as much as you want
+
+here is for classes:
+
+*/
+
+@use 'variable' as v;
+
+.text-center{
+    text-align: center;
+}
+
+.bg-primary{
+    background-color: white; //use your own colors
+}
+

@@ -1,0 +1,17 @@
+/* Configure your typography as you want 
+
+Example:
+
+h1, h2, h3{
+    margin: 0 0 v.$spacing 0;
+    line-height: 1.6;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: v.$main_font;
+}
+
+*/
+
+
+@use 'variable' as v;
+
