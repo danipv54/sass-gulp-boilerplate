@@ -25,6 +25,10 @@
     "type": "git",
     "url": "git+https://github.com/danipv54/sass-gulp-boilerplate.git"
   },
+  "browsersList": [
+    "last 1 version",
+    "> 1%"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
