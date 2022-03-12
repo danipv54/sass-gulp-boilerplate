@@ -1,8 +1,8 @@
 {
   "name": "sass-gulp-boilerplate",
   "version": "1.0.0",
-  "description": "Sass  Gulp boilerplate which create a  sass project include images proccesor, css proccesor, bem desing",
-  "main": "index.js",
+  "description": "This is a nice Sass-gulp boilerplate project built with some tools to make life easy when needed.",
+  "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "10.4.2",
@@ -30,8 +30,8 @@
     "> 1%"
   ],
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Patricio",
+  "license": " MIT License",
   "bugs": {
     "url": "https://github.com/danipv54/sass-gulp-boilerplate/issues"
   },
