@@ -57,12 +57,12 @@ It minifies **PNG - JPEG – GIF -SVG images**, and creates [Webp](https://devel
   
   
 ##  **Sass File Structure  ⚙️️️**
-#### The main file which compile all file into a css code with all configuration is ``style.scss``
+#### The main file which compile all file onto a css code with all configuration is ``style.scss``
 You need to  add in this format ``@use 'folderName';`` ✔
 
   ![files](https://i.ibb.co/MRw74XP/code.png)
 
-You can structure your scss file using this format by folder. We must an ``_index.scss`` to forward all files on the folder ✔
+You can structure your scss file using this format by folder. We must have a  ``_index.scss`` per folder to forward all files onto ``style.scss`` ✔
 
   ![files](https://i.ibb.co/GnmZSGL/Capture.png)
   
