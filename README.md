@@ -1,7 +1,6 @@
 # Sass Gulp boilerplate 
-
-<p align="center">
-  <a href="#" < ><img src="https://cdn.svgporn.com/logos/gulp.svg" width="50" alt="Gulp logo Logo" / ></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p>
+  <a href="#" ><img src="https://cdn.svgporn.com/logos/gulp.svg" width="50" alt="Gulp logo Logo" ></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <a href="#"><img src="https://cdn.svgporn.com/logos/postcss.svg" width="100" alt="Post css Logo" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
      <a href="#"> <img src="https://cdn.svgporn.com/logos/autoprefixer.svg" width="150" alt="Autoprefixer Logo" /> </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
      <a href="#"><img src="https://cdn.svgporn.com/logos/sass.svg" width="150" alt="Sass Logo" /></a>
