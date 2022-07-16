@@ -16,7 +16,7 @@ function css() {
     return src('src/scss/style.scss')
         .pipe(sourcemaps.init())        
         .pipe( sass())
-        .pipe( postcss([autoprefixer()]))  //add cssnano() to minify your code if you need it
+        .pipe( postcss([autoprefixer(),cssnano()]))  //add cssnano() to minify your code if you need it
         .pipe(sourcemaps.write('.'))    
         .pipe( dest('build/css'));
 }
